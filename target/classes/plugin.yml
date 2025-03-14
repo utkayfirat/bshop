@@ -1,0 +1,13 @@
+name: BankShop
+version: '1.0-SNAPSHOT'
+main: com.rp.bshop.Bshop
+api-version: '1.21'
+commands:
+  bank:
+    description: Check balance or send money to another player
+  shop:
+    description: Opens the shop menu where you can purchase items.
+permissions:
+  bankplugin.bank:
+    description: Allows access to bank commands
+    default: true

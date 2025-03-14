@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bshop:jar">
+    <output-path>$USER_HOME$/Desktop/1_20_SERVER/plugins</output-path>
+    <root id="archive" name="bshop.jar">
+      <element id="module-output" name="bshop" />
+    </root>
+  </artifact>
+</component>

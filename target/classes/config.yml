@@ -1,0 +1,149 @@
+shop-items:
+  - id: COOKED_BEEF
+    name: "Cooked Beef"
+    price: 20
+    amount: 5
+    ramount: 5
+  - id: COOKED_CHICKEN
+    name: "Cooked Chicken"
+    price: 15
+    amount: 5
+    ramount: 5
+  - id: COOKED_MUTTON
+    name: "Cooked Mutton"
+    price: 25
+    amount: 5
+    ramount: 5
+  - id: COOKED_PORKCHOP
+    name: "Cooked Porkchop"
+    price: 18
+    amount: 5
+    ramount: 5
+  - id: COOKED_SALMON
+    name: "Cooked Salmon"
+    price: 30
+    amount: 5
+    ramount: 5
+  - id: MELON
+    name: "Melon"
+    price: 12
+    amount: 10
+    ramount: 10
+  - id: CAKE
+    name: "Cake"
+    price: 50
+    amount: 1
+    ramount: 1
+  - id: COOKIE
+    name: "Cookie"
+    price: 5
+    amount: 20
+    ramount: 20
+  - id: BREAD
+    name: "Bread"
+    price: 10
+    amount: 10
+    ramount: 10
+  - id: BAKED_POTATO
+    name: "Baked Potato"
+    price: 15
+    amount: 5
+    ramount: 5
+  - id: CARROT
+    name: "Carrot"
+    price: 8
+    amount: 10
+    ramount: 10
+  - id: POTION
+    name: "Potion"
+    price: 25
+    amount: 1
+    ramount: 1
+  - id: MELON_SLICE
+    name: "Melon Slice"
+    price: 7
+    amount: 8
+    ramount: 8
+  - id: PUMPKIN_PIE
+    name: "Pumpkin Pie"
+    price: 40
+    amount: 1
+    ramount: 1
+  - id: CHICKEN
+    name: "Raw Chicken"
+    price: 5
+    amount: 10
+    ramount: 10
+  - id: PORK
+    name: "Raw Pork"
+    price: 10
+    amount: 8
+    ramount: 8
+  - id: MUTTON
+    name: "Raw Mutton"
+    price: 12
+    amount: 8
+    ramount: 8
+  - id: FISH
+    name: "Raw Fish"
+    price: 6
+    amount: 10
+    ramount: 10
+  - id: COD
+    name: "Raw Cod"
+    price: 7
+    amount: 10
+    ramount: 10
+  - id: SALMON
+    name: "Raw Salmon"
+    price: 9
+    amount: 8
+    ramount: 8
+  - id: BEETROOT
+    name: "Beetroot"
+    price: 10
+    amount: 15
+    ramount: 15
+  - id: BEETROOT_SOUP
+    name: "Beetroot Soup"
+    price: 30
+    amount: 1
+    ramount: 1
+  - id: SWEET_BERRIES
+    name: "Sweet Berries"
+    price: 5
+    amount: 15
+    ramount: 15
+  - id: SWEET_BERRY_BUSH
+    name: "Sweet Berry Bush"
+    price: 18
+    amount: 1
+    ramount: 1
+  - id: HONEY_BOTTLE
+    name: "Honey Bottle"
+    price: 40
+    amount: 1
+    ramount: 1
+  - id: HONEYCOMB
+    name: "Honeycomb"
+    price: 35
+    amount: 1
+    ramount: 1
+  - id: APPLE
+    name: "Apple"
+    price: 10
+    amount: 5
+    ramount: 5
+  - id: ENCHANTED_GOLDEN_APPLE
+    name: "Enchanted Golden Apple"
+    price: 100
+    amount: 1
+    ramount: 1
+  - id: GOLDEN_CARROT
+    name: "Golden Carrot"
+    price: 30
+    amount: 5
+    ramount: 5
+
+
+players:
